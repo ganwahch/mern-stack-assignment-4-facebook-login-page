@@ -1,0 +1,227 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <div id="bg">
+        <center><p id="fb">facebook</p></center>
+        <div id="top"></div>
+        <form method="post" autocomplete="off" action="qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq" id="fm" align="center" >
+        
+        <input type="text" placeholder="   Email Address Or Phone Number" id="ie"/>
+        
+        <input type="password" placeholder="   Password" id="ip"/>
+        <input type="submit" value="Login" id="sb">
+        
+        <hr color="#CCD0D3" id="hr1" align="left"/>
+        <p id="or">or</p>
+        <hr color="#CCD0D3" id="hr2" align="right"/>
+        
+        <button id="cna">Create New Account</button>
+       <p> <a href="#" id="fgp">Forgotten password?</a></p>
+        <p id="dt">.</p>
+        <p id="hc"><a href="#">Help Centre</a></p> 
+        
+        
+        
+        </form>
+        
+        <div id="lit">
+         <center>
+          <ul id="lt1">
+        <li class="eg">English (UK)</li>
+        <a href="#"><li class="hi">Hindi</li></a>
+        <a href="#"><li class="ur">Urdu</li></a>
+        <a href="#"><li class="dt1">Dont</li></a>
+        </ul>
+        </center>
+        
+       <center>
+        <ul id="lt2">
+        <a href="#"><li class="gj">Sindhi</li></a>
+        <a href="#"><li class="mr">pashto</li></a>
+        <a href="#"><li class="dt2">dont</li></a>
+        <a href="#"><li class="ps">+</li></a>
+        </ul>
+        
+         
+        <p id=ct>Facebook ©2022</p>
+        </center>
+        </div>
+    
+        </div>
+      
+        
+</body>
+</html> -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- /* Created by Terminator */
+
+#bg {
+    background-color:#EBEEF3; 
+    height:342px;
+    width:100%;
+    position:absolute ;
+    top:0px;
+    left:0px;
+    z-index:1;
+ }
+ 
+ #top {
+    background-color:#3A5A97; 
+    width:100%;
+    height:42px;
+    z-index:3;
+ }
+ 
+ #fb {
+    color:#FFFFFF; 
+    font-size:26px;
+    font-weight:bold;
+    position:absolute ;
+    left:122px;
+    top:-18px;
+    
+    z-index:4;
+ }
+ 
+ #ie {
+    margin-top:18px; 
+    width:94%;
+    height:42px;
+    border:1px solid #CCD0D3;
+    border-radius:6px 6px 0px 0px;
+ }
+ 
+ 
+ #ip {
+    width:94%; 
+    height:42px;
+    margin-top:-0.96px;
+    border:1px solid #CCD0D3;
+    border-radius:0px 0px 6px 6px;
+ }
+ 
+ #sb {
+    background-color:#4E6597; 
+    width:94%;
+    height:38px;
+    margin-top:16px;
+    border:.8px solid #5c6bc0;
+    border-radius:3.4px;
+    color:#FFFFFF;
+    font-weight:bold;
+    
+ }
+ 
+ #hr1 {
+    width:36%; 
+    margin-top:24px;
+    margin-left :22px;
+ }
+ 
+ #hr2 {
+     width:36%;
+     margin-top:-26px;
+     margin-right:22px;
+     
+ }
+ 
+ #or {
+    margin-top:-18px; 
+ }
+ 
+ #cna {
+    width:48%; 
+    height:36px;
+    background-color:#508C34;
+    margin-top:7.4px;
+    border:0px solid ;
+    color:#FFFFFF;
+    border-radius:4px;
+    font-weight:bold;
+    text-shadow:-0.8px -0.8px #000000;
+ }
+ 
+ #fgp {
+     color:#86A1C5;
+     margin-left:-68px;
+     font-size:12px;
+ }
+ 
+ #dt {
+     margin-top:-36px;
+     margin-left:50.6px;
+ }
+ 
+ #hc {
+     color:#86A1C5;
+     margin-top:-28.8px;
+     font-size:12px;
+     margin-left:122px;
+ }
+ 
+ #lt1 {
+    list-style-type:none ; 
+    float:left;
+    margin-top:45.6px;
+    font-size:16px;
+    font-weight:6px;
+    color:#566886;
+    
+ }
+ 
+ .eg {
+     color:#8E9399;
+ }
+ 
+ #lt2 {
+    list-style-type:none ; 
+    float:left ;
+    margin-left:46px;
+    margin-top:45.6px;
+    font-size:16px;
+    color:#566886;
+ }
+ 
+ .ps {
+    border:0.8px solid ; 
+    margin-left:16.4px;
+    margin-right:15.4px;
+    border-radius:2px;
+ }
+ 
+ #ct {
+    color:#818181;
+    font-size:16px;
+    margin-right:34px;
+    margin-top:12px;
+ }
+ 
+ a {
+    text-decoration:none ; 
+    color:#566886;
+ }
+ 
+ .hi , .ur , .dt1 , .gj , .mr , .dt2  {
+      
+      margin:4px;
+ } -->
